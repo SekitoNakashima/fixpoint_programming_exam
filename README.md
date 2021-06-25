@@ -1,4 +1,4 @@
-# fixpoint_rogramming_exam
+# fixpoint_programming_exam
 
 ## 環境
 
